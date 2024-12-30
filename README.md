@@ -1,5 +1,7 @@
 Desafio Java Exceptions
+
 Descrição
+
 Este projeto é um desafio de programação em Java que envolve o uso de exceções para validar dois parâmetros. O objetivo é verificar se o primeiro parâmetro é menor que o segundo, e caso contrário, lançar uma exceção personalizada.
 
 Tecnologias Utilizadas
